@@ -1,4 +1,7 @@
-# Cluster L
+<img src="https://i.giphy.com/6jnuP7BZPv3uAAtAFs.webp">
+
+# Axleshift
+A Freight Management System Capstone [CLUSTER L]
 
 Click the links below to access your repositories:
 
