@@ -15,12 +15,18 @@ Click the links below to access your repositories:
 - [HR 4](https://github.com/freight-capstone/hr4)
 - [Log 1](https://github.com/freight-capstone/log1)
 - [Log 2](https://github.com/freight-capstone/log2)
+- [Template](https://github.com/freight-capstone/main)
 
 # Documentation
 
 - [Core UI Components](https://coreui.io/react/docs/components/tabs/#example)
 - [Search FontAwesome](https://fontawesome.com/search?q=example&o=r&m=free)
 - [Setup FontAwesome](https://docs.fontawesome.com/web/use-with/react)
+
+# Packages
+
+- [Google Fonts Poppins](https://www.npmjs.com/package/@fontsource/poppins)
+- [NODE NLP](https://www.npmjs.com/package/node-nlp)
 
 # VSCode Extension
 
